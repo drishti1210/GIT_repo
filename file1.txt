@@ -1,4 +1,7 @@
 Hello I am Drishti
+<<<<<<< HEAD
 Noida
 Hello I am Drishti Singh
 Lumiq
+=======
+>>>>>>> parent of 0fda940... Changes in feature branch
