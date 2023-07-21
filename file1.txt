@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Hello I am Drishti
 Noida
-=======
 Hello I am Drishti Singh
 Lumiq
->>>>>>> feature_branch
